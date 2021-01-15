@@ -12,7 +12,7 @@ setInterval(clock, 1000);
 
 // window.addEventListener("load", () => {
 // // document.cookie = "samesite=None";
-//     var API_KEY = 'PSeInByabSQivO4hZ89CUh7u40AX5C3IAAkstRSU1Bg';
+//     var API_KEY = '';
 //     var link = `https://api.unsplash.com/photos/random/?client_id=${API_KEY}&page=1&orientation=landscape`;
 //     var imageurl = '';
 //     const getResponse = async () => {
